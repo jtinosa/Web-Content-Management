@@ -56,7 +56,7 @@ A content type is the logical division of content by structure and purpose. Each
 
 3. **Editorial workflow and usability** – a standardized plan for how a publication will create, review, edit, and publish content.
 
-Source: [Harrington Communications](https://www.hcommunications.biz/blog/the-ultimate-guide-to-law-firm-content-marketing)
+![image](https://github.com/user-attachments/assets/e17167ca-89e6-4cfe-b2b9-4e6a35d83e54)
 
 4. **Publishing and output management** – used to transform content in various ways for publication and deliver the prepared content to publishing channels.
 
@@ -70,7 +70,7 @@ Choosing the right platform is crucial for online exposure and success.
 - **Wordpress.com** – an online website content management system used to create and operate a website. It is the most user-friendly based on its features and interface.
 - **Wix** – a unique cloud-based web development platform that allows users to create their own sites quickly and effortlessly by dragging and dropping features.
 
-Source: [Bryt Designs](https://brytdesigns.com/wix-squarespace-wordpress-difference/)
+![image](https://github.com/user-attachments/assets/552adca8-b646-4bc6-8a6d-ac5781918f59)
 
 **For Audio/Visual Web Contents:**
 
