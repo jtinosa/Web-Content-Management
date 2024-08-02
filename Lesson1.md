@@ -55,9 +55,7 @@ A content type is the logical division of content by structure and purpose. Each
    - **Card Sorting** – a highly useful technique in information architecture; it is used to understand how users think about the content by categorizing items with the same idea.
 
 3. **Editorial workflow and usability** – a standardized plan for how a publication will create, review, edit, and publish content.
-
-![image](https://github.com/user-attachments/assets/e17167ca-89e6-4cfe-b2b9-4e6a35d83e54)
-
+   ![image](https://github.com/user-attachments/assets/e17167ca-89e6-4cfe-b2b9-4e6a35d83e54)
 4. **Publishing and output management** – used to transform content in various ways for publication and deliver the prepared content to publishing channels.
 
 ## Overview of Various Web Content Platforms
