@@ -21,7 +21,6 @@ The creator's purpose is their intent, or purpose, for creating their web conten
 3. **To Entertain** – used to keep the readers engaged by making the content as interesting and as exciting as possible such as in comics, movies, and science fiction novels, among others.
 4. **To Inspire** – used to develop a reaction and emotion from the reader through personal content such as in blogging, vlogging, and inspirational books and videos.
 
-## Content Marketing Matrix
 ![image](https://github.com/user-attachments/assets/694f821d-811f-422a-86ec-1f8aa6b3f071)
 
 
