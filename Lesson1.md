@@ -1,6 +1,6 @@
 ## Basic Concepts
 
-**Content** – the data that has been edited to accommodate specific user needs. Content consists of any text, images, or videos found on a specific platform. “Content is King”.
+**Content** – the data that has been edited to accommodate specific user needs. Content consists of any text, images, or videos found on a specific platform. [“Content is King”](# "Content is king" is a phrase that emphasizes the importance of high-quality content in the digital world. It suggests that, regardless of the platform or medium, the success of any online presence—whether it's a website, blog, social media channel, or video platform—depends primarily on the value and relevance of the content it provides.).
 
 **Content Strategy** – deals with the planning aspects of managing content throughout its lifecycle, and includes aligning content to business goals, analysis, modeling, and influences development, production, presentation, evaluation, and measurement.
 
