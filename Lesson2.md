@@ -4,7 +4,7 @@ From inception through launch and ongoing usage, a web content management projec
 
 The content management team is comprised of the combination of the following:
 
-![Web content management team hierarchical chart](#)
+<img width="402" alt="Screenshot 2024-08-30 at 6 46 03 AM" src="https://github.com/user-attachments/assets/d2935ce2-2a8e-4c49-92d1-a38e3892967f">
 
 ### Editors
 
